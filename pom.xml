@@ -6,7 +6,7 @@
 
     <groupId>top.onceio</groupId>
     <artifactId>onceio-excel-utils</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
     <description>onceio-excel-uitls is an easy to using excel utils.</description>
     <url>http://www.onceio.top/</url>
     <developers>
